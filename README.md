@@ -10,7 +10,6 @@ Launcher (Common): Motors used to draw back rubber bands, or spinners used to th
 Picker  (Common). || 
 Drive Train: Either 4 motor 4 wheel or 4 motor 6 wheel. || 
 Elevation Mechanism: Pneumatic lifting mechanism, 2 pistsons would generate about 24 pounds of force with a 2 in stroke. The retraction would have decreased force, the retraction would most likely have around 10 pounds of force each so 20 total. || 
-||
 Average weight of a bot 8-24 pounds. Most are in the range of 12-16, however there are a few that are extremes of 8 lb to 24+ lb.
 ||
 # Autonomous Period Win Point
