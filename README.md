@@ -5,14 +5,14 @@ Draft 1; Basic Design
 
 
 # Robotic Design Elements
-Sweeper:  Pneumatic cylinder on each side used to push wings out.
-Launcher (Common): Motors used to draw back rubber bands, or spinners used to thrust the balls out.
+Sweeper:  Pneumatic cylinder on each side used to push wings out. || 
+Launcher (Common): Motors used to draw back rubber bands, or spinners used to thrust the balls out. || 
 Picker  (Common). || 
-Drive Train: Either 4 motor 4 wheel or 4 motor 6 wheel.
-Elevation Mechanism: Pneumatic lifting mechanism, 2 pistsons would generate about 24 pounds of force with a 2 in stroke. The retraction would have decreased force, the retraction would most likely have around 10 pounds of force each so 20 total.
-
+Drive Train: Either 4 motor 4 wheel or 4 motor 6 wheel. || 
+Elevation Mechanism: Pneumatic lifting mechanism, 2 pistsons would generate about 24 pounds of force with a 2 in stroke. The retraction would have decreased force, the retraction would most likely have around 10 pounds of force each so 20 total. || 
+||
 Average weight of a bot 8-24 pounds. Most are in the range of 12-16, however there are a few that are extremes of 8 lb to 24+ lb.
-
+||
 # Autonomous Period Win Point
   Removed triball from load zone.
   Scored at least on alliance triball on alliance goal.
