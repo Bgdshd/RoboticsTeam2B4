@@ -32,3 +32,14 @@ https://content.vexrobotics.com/docs/23-24/vrc-overunder/VRC-Manual-2324-2.0-Rel
 12. Limited amounts of custom plastic and tape allowed.
 13. One or two controllers per robot.
 Use a competition template for programming.
+
+
+## *People Competing: 
+
+Truman - Main Progammer 
+
+Eli  - Main Builder | Leader | Co Programmer 
+
+Jeremiah - Co Programer | Driver | Co Leader
+
+Xander  - Builder | Co Programer
