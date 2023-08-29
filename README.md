@@ -2,6 +2,9 @@
 
 Draft 1; Basic Design
 ![DriveTD1](https://github.com/Bgdshd/RoboticsTeam2B4/assets/111591253/33548e16-25b9-4143-bd12-ce728df3f37c)
+Draft 2; Drive Train Detailed
+![DriveTrain2](https://github.com/Bgdshd/RoboticsTeam2B4/assets/111591253/e1691ef3-1c5d-4733-97f2-9d93e07348db)
+
 
 # *Robotic Design Elements
 Sweeper:  Pneumatic cylinder on each side used to push wings out. || 
