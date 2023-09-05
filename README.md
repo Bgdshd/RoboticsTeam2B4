@@ -39,7 +39,7 @@ Use a competition template for programming.
 
 ## *People Competing: 
 
-Truman - Main Progammer 
+Truman - Main Progammer | Driver
 
 Eli  - Main Builder | Leader | Co Programmer 
 
