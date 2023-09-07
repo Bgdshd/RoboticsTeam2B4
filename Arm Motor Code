@@ -1,0 +1,6 @@
+## Arm Code 
+- In progress 
+
+
+ArmMotor.spin_for(UP, 90, DEGREES) (Assign L1)
+ArmMotor.spin_for(DOWN, 90, DEGREES) (Assign L2)
