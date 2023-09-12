@@ -94,6 +94,13 @@ rc_auto_loop_thread_controller_1 = Thread(rc_auto_loop_function_controller_1)
 from vex import *
 
 # Begin project code
+def if condition:controller_1.buttonUp.pressed(buttonUp)
+ pass drivetrain.drive_for(FORWARD, 100, MM)
+def if condition:controller_1.buttonUp.pressed(buttonDown)
+    pass drivetrain.drive_for(REVERSE, 100, MM)
+def if condition:controller_1.buttonLeft.pressed(buttonLeft)
+    pass drivetrain.drive(F
+
 
 
 
