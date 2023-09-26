@@ -48,3 +48,8 @@ Eli  - Main Builder | Leader | Co Programmer
 Jeremiah - Co Programer | Driver | Co Leader
 
 Xander  - Builder | Co Programer
+
+
+
+# Updates on Robot 
+- Currently working on Pneumatics and Drive Train Code. The Robot is in production and nearly finished. The connection between the Robot and code being eshtablished. The code doesnt seem to be pairing well with the robot and currently incorrect. Next on agenda is testing and starting to work on Arm and fixiing the current errors with code. 
