@@ -1,0 +1,39 @@
+myVariable = 0
+message1 = Event()
+low = False
+digitaloutON = False
+
+def when_started1():
+    global myVariable, message1, low, digitaloutON
+    digital_out_a.set(False)
+
+def onevent_controller_1buttonR2_pressed_0():
+    global myVariable, message1, low, digitaloutON
+    digital_out_a.set(True)
+
+def onevent_controller_1buttonL2_pressed_0():
+    global myVariable, message1, low, digitaloutON
+    digital_out_a.set(False)
+
+def onevent_controller_1buttonL2_pressed_1():
+    global myVariable, message1, low, digitaloutON
+    if digitaloutON:
+        digital_out_a.set(True)
+        digitaloutON = False
+        wait(0.1, SECONDS)
+    else:
+        digital_out_a.set(False)
+        digitaloutON = True
+        wait(0.1, SECONDS)
+
+# Calibrate the Drivetrain
+calibrate_drivetrain()
+
+# system event handlers
+controller_1.buttonR2.pressed(onevent_controller_1buttonR2_pressed_0)
+controller_1.buttonL2.pressed(onevent_controller_1buttonL2_pressed_0)
+controller_1.buttonL2.pressed(onevent_controller_1buttonL2_pressed_1)
+# add 15ms delay to make sure events are registered correctly.
+wait(15, MSEC)
+
+when_started1()
