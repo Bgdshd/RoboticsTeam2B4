@@ -41,15 +41,17 @@ Use a competition template for programming.
 
 ## *People Competing: 
 
-Truman - Main Progammer | Driver
+Truman - Main Progammer 
 
 Eli  - Main Builder | Leader | Co Programmer 
 
-Jeremiah - Co Programer | Driver | Co Leader
+Jeremiah - Co Programer | Driver | Documenter
 
-Xander  - Builder | Co Programer
+Xander  - Builder 
 
 
 
 # Updates on Robot 
-- Currently working on Pneumatics and Drive Train Code. The Robot is in production and nearly finished. The connection between the Robot and code being eshtablished. The code doesnt seem to be pairing well with the robot and currently incorrect. Next on agenda is testing and starting to work on Arm and fixiing the current errors with code. 
+- Currently working on Pneumatics and Drive Train Code. The Robot is in production and nearly finished. The connection between the Robot and code being eshtablished. The code doesnt seem to be pairing well with the robot and currently incorrect. Next on agenda is testing and starting to work on Arm and fixiing the current errors with code.
+
+- sketching arm, launcher, and sweepers rn. Robot current drives fine and starting to build sweepers. 
