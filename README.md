@@ -6,6 +6,8 @@ Draft 2; Drive Train Detailed
 ![DriveTrain2](https://github.com/Bgdshd/RoboticsTeam2B4/assets/111591253/e1691ef3-1c5d-4733-97f2-9d93e07348db)
 Chassis Build; 
 ![IMG_3268](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/90292a85-7f2c-45e1-9af0-dcf1d98b649e)
+Arm/Sweeper/Launcher sketch;
+![IMG_3355](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/11c382ad-65df-460a-8d14-48d61256e5c8)
 
 
 # *Robotic Design Elements
