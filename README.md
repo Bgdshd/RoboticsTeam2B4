@@ -51,6 +51,9 @@ Jeremiah - Co Programer | Driver | Documenter
 
 Xander  - Builder 
 
+## Drive Train Code
+<img width="1029" alt="Screenshot 2023-10-03 at 1 11 00 PM" src="https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936603/9295d9f4-cca9-4552-b611-b1e1e48b7fa9">
+<img width="776" alt="Screenshot 2023-10-03 at 1 11 38 PM" src="https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936603/368d87b3-eb18-47d5-8c34-b3dbbf283b73">
 
 
 # Updates on Robot 
