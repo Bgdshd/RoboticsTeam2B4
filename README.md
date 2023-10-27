@@ -12,10 +12,16 @@ Updated Robot Chassis
 ![IMG_3553](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/4503435a-2bfe-4c27-a60a-5efcba489e59)
 More plans for sweeper and launcher 
 ![IMG_3554](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/c9e99bf3-1b54-4911-9548-81b145ade669)
+Updated Chassis Builds: 
+![IMG_3567](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/fba0c40c-d13b-4c87-8c3c-00be5244dbca)
+![IMG_3568](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/3a68daef-6557-48ca-a130-155c558fa24a)
+![IMG_3569](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/6d7cf65c-2016-4412-95d6-642a54d3311c)
+![IMG_3565](https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936415/39624d78-e224-4d15-a785-245913e1f4c6)
 
 # *Robotic Design Elements
 Sweeper:  Pneumatic cylinder on each side used to push wings out. || 
-Launcher (Common): Motors used to draw back rubber bands, or spinners used to thrust the balls out. || 
+Launcher (Common): Mo![Uploading IMG_3567.jpg…]()
+tors used to draw back rubber bands, or spinners used to thrust the balls out. || 
 Picker  (Common). || 
 Drive Train: Either 4 motor 4 wheel or 4 motor 6 wheel. || 
 Elevation Mechanism: Pneumatic lifting mechanism, 2 pistsons would generate about 24 pounds of force with a 2 in stroke. The retraction would have decreased force, the retraction would most likely have around 10 pounds of force each so 20 total. || 
