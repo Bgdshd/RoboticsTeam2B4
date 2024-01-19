@@ -65,7 +65,9 @@ Xander  - Builder
 <img width="776" alt="Screenshot 2023-10-03 at 1 11 38 PM" src="https://github.com/Bgdshd/RoboticsTeam2B4/assets/142936603/368d87b3-eb18-47d5-8c34-b3dbbf283b73">
 
 
-# Updates on Robot 
+# Updates on Robot (Project Finished)
 - Currently working on Pneumatics and Drive Train Code. The Robot is in production and nearly finished. The connection between the Robot and code being eshtablished. The code doesnt seem to be pairing well with the robot and currently incorrect. Next on agenda is testing and starting to work on Arm and fixiing the current errors with code.
 
-- sketching arm, launcher, and sweepers rn. Robot current drives fine and starting to build sweepers. 
+- sketching arm, launcher, and sweepers rn. Robot current drives fine and starting to build sweepers.
+
+- launcher attached and working. dropped the sweeper and arms. project finished
